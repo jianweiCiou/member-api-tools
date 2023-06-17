@@ -1,0 +1,15 @@
+{
+    "name":"com.test.memberapitools",
+    "version":"1.0.0",
+    "displayName":"Member API Tools",
+    "description":"1. 帳號登入(oauth) \n2. 帳號資料查詢(註冊mail、暱稱、頭圖、持有點數總額、付費點數、免費點數、最後登入時間)\n3. 查詢交易紀錄(by 遊戲廠商) \n4. 扣除點數 \n5. 取消交易(24小時內) \n6. refresh token",
+    "unity":"2022.3",
+    "dependencies":{},
+    "keywords":["login","token"],
+    "author": {
+        "name": "__",
+        "email":"test@test.com",
+        "url":"https://"
+    }
+
+}
